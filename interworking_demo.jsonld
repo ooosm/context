@@ -1,0 +1,11 @@
+{
+    "@context": [
+        {
+            "DemoSensor": "http://uri.citydatahub.kr/ngsi-ld/interworking_demo/DemoSensor",
+            "temperature": "http://uri.citydatahub.kr/ngsi-ld/interworking_demo/temperature",
+            "humidity": "http://uri.citydatahub.kr/ngsi-ld/interworking_demo/humidity",
+            "room": "http://uri.citydatahub.kr/ngsi-ld/interworking_demo/room",
+            "floor": "http://uri.citydatahub.kr/ngsi-ld/interworking_demo/floor"
+        }
+    ]
+}
