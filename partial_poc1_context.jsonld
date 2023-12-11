@@ -1,0 +1,14 @@
+{
+  "@context": [
+    {
+      "FlowRate": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/FlowRate",
+      "WaterLevel": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/WaterLevel",
+      "Rainfall": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/Rainfall",
+      "florRate": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/florRate",
+      "velocity": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/velocity",
+      "depth": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/depth",
+      "waterLevel": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/waterLevel",
+      "rainfall": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/rainfall"
+    }
+  ]
+}
