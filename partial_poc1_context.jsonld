@@ -5,7 +5,7 @@
       "WaterLevel": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/WaterLevel",
       "Rainfall": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/Rainfall",
       "sensorId": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/sensorId",
-      "florRate": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/florRate",
+      "flowRate": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/flowRate",
       "velocity": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/velocity",
       "depth": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/depth",
       "waterLevel": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/waterLevel",
