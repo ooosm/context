@@ -9,7 +9,8 @@
       "velocity": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/velocity",
       "depth": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/depth",
       "waterLevel": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/waterLevel",
-      "rainfall": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/rainfall"
+      "rainfall": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/rainfall",
+      "isVirtual": "http://uri.citydatahub.kr/ngsi-ld/PARTIAL/isVirtual"
     }
   ]
 }
