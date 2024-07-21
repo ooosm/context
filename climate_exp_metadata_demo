@@ -1,0 +1,14 @@
+{
+    "@context": [
+        {
+            "ExpMetadata": "http://uri.citydatahub.kr/ngsi-ld/climate_demo/ExpMetadata",
+            "inputVariables": "http://uri.citydatahub.kr/ngsi-ld/climate_demo/inputVariables",
+            "outputResults": "http://uri.citydatahub.kr/ngsi-ld/climate_demo/outputResults",
+            "experimenter": "http://uri.citydatahub.kr/ngsi-ld/climate_demo/experimenter",
+            "organization": "http://uri.citydatahub.kr/ngsi-ld/climate_demo/organization",
+            "description": "http://uri.citydatahub.kr/ngsi-ld/climate_demo/description",
+            "startTime": "http://uri.citydatahub.kr/ngsi-ld/climate_demo/startTime",
+            "endTime": "http://uri.citydatahub.kr/ngsi-ld/climate_demo/endTime"
+        }
+    ]
+}
