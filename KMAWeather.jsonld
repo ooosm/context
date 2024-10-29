@@ -9,7 +9,7 @@
             "SI_DAY": "http://uri.citydatahub.kr/ngsi-ld/climate/SI_DAY",
             "HM_AVG": "http://uri.citydatahub.kr/ngsi-ld/climate/HM_AVG",
             "TA_AGV": "http://uri.citydatahub.kr/ngsi-ld/climate/TA_AGV",
-            "WS1_AGV": "http://uri.citydatahub.kr/ngsi-ld/climate/WS1_AGV",
+            "WS1_AVG": "http://uri.citydatahub.kr/ngsi-ld/climate/WS1_AVG",
             "RN_HR1": "http://uri.citydatahub.kr/ngsi-ld/climate/RN_HR1",
             "hourly_rainfall_max": "http://uri.citydatahub.kr/ngsi-ld/climate/hourly_rainfall_max",
             "numberOfDays_rainfall_80mm": "http://uri.citydatahub.kr/ngsi-ld/climate/numberOfDays_rainfall_80mm"
