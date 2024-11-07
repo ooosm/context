@@ -2,6 +2,9 @@
     "@context": [
         {
             "KMAWeather": "http://uri.citydatahub.kr/ngsi-ld/climate/ExpMetadata",
+            "name": "http://uri.citydatahub.kr/ngsi-ld/climate/name",
+            "date": "http://uri.citydatahub.kr/ngsi-ld/climate/date",
+            "time": "http://uri.citydatahub.kr/ngsi-ld/climate/time",
             "RN_DAY": "http://uri.citydatahub.kr/ngsi-ld/climate/RN_DAY",
             "TA_MIN": "http://uri.citydatahub.kr/ngsi-ld/climate/TA_MIN",
             "TA_MAX": "http://uri.citydatahub.kr/ngsi-ld/climate/TA_MAX",
