@@ -11,6 +11,7 @@
             "WS_AVG": "http://uri.citydatahub.kr/ngsi-ld/climate/WS_AVG",
             "SI_DAY": "http://uri.citydatahub.kr/ngsi-ld/climate/SI_DAY",
             "HM_AVG": "http://uri.citydatahub.kr/ngsi-ld/climate/HM_AVG",
+            "TA_AGV": "http://uri.citydatahub.kr/ngsi-ld/climate/TA_AGV",
             "TA_AVG": "http://uri.citydatahub.kr/ngsi-ld/climate/TA_AVG",
             "WS1_AVG": "http://uri.citydatahub.kr/ngsi-ld/climate/WS1_AVG",
             "RN_HR1": "http://uri.citydatahub.kr/ngsi-ld/climate/RN_HR1",
