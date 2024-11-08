@@ -1,0 +1,9 @@
+{
+    "@context": [
+        {
+            "WaterLevel": "http://uri.citydatahub.kr/ngsi-ld/climate/WaterLevel",
+            "name": "http://uri.citydatahub.kr/ngsi-ld/climate/name",
+            "waterLevel": "http://uri.citydatahub.kr/ngsi-ld/climate/waterLevel"
+        }
+    ]
+}
