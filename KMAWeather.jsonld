@@ -2,6 +2,7 @@
     "@context": [
         {
             "KMAWeather": "http://uri.citydatahub.kr/ngsi-ld/climate/ExpMetadata",
+            "YearlyStatistics": "http://uri.citydatahub.kr/ngsi-ld/climate/YearlyStatistics",
             "name": "http://uri.citydatahub.kr/ngsi-ld/climate/name",
             "date": "http://uri.citydatahub.kr/ngsi-ld/climate/date",
             "time": "http://uri.citydatahub.kr/ngsi-ld/climate/time",
