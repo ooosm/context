@@ -3,6 +3,8 @@
         {
             "KMAWeather": "http://uri.citydatahub.kr/ngsi-ld/climate/ExpMetadata",
             "YearlyRainfallStatistics": "http://uri.citydatahub.kr/ngsi-ld/climate/YearlyRainfallStatistics",
+            "ClimateScenario": "http://uri.citydatahub.kr/ngsi-ld/climate/ClimateScenario",
+            "year": "http://uri.citydatahub.kr/ngsi-ld/climate/year",
             "name": "http://uri.citydatahub.kr/ngsi-ld/climate/name",
             "date": "http://uri.citydatahub.kr/ngsi-ld/climate/date",
             "time": "http://uri.citydatahub.kr/ngsi-ld/climate/time",
@@ -16,6 +18,12 @@
             "TA_AVG": "http://uri.citydatahub.kr/ngsi-ld/climate/TA_AVG",
             "WS1_AVG": "http://uri.citydatahub.kr/ngsi-ld/climate/WS1_AVG",
             "RN_HR1": "http://uri.citydatahub.kr/ngsi-ld/climate/RN_HR1",
+            "RX5DAY": "http://uri.citydatahub.kr/ngsi-ld/climate/RX5DAY",
+            "RX1DAY": "http://uri.citydatahub.kr/ngsi-ld/climate/RX1DAY",
+            "SDII": "http://uri.citydatahub.kr/ngsi-ld/climate/SDII",
+            "CDD": "http://uri.citydatahub.kr/ngsi-ld/climate/CDD",
+            "RAIN80": "http://uri.citydatahub.kr/ngsi-ld/climate/RAIN80",
+            "climateModel": "http://uri.citydatahub.kr/ngsi-ld/climate/climateModel",
             "hourly_rainfall_max": "http://uri.citydatahub.kr/ngsi-ld/climate/hourly_rainfall_max",
             "numberOfDays_rainfall_80mm": "http://uri.citydatahub.kr/ngsi-ld/climate/numberOfDays_rainfall_80mm"
         }
