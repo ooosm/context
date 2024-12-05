@@ -4,6 +4,8 @@
             "KMAWeather": "http://uri.citydatahub.kr/ngsi-ld/climate/ExpMetadata",
             "YearlyRainfallStatistics": "http://uri.citydatahub.kr/ngsi-ld/climate/YearlyRainfallStatistics",
             "ClimateScenario": "http://uri.citydatahub.kr/ngsi-ld/climate/ClimateScenario",
+            "TemperatureDisaster": "http://uri.citydatahub.kr/ngsi-ld/climate/TemperatureDisaster",
+            "HydrologicalDisaster": "http://uri.citydatahub.kr/ngsi-ld/climate/HydrologicalDisaster",
             "year": "http://uri.citydatahub.kr/ngsi-ld/climate/year",
             "name": "http://uri.citydatahub.kr/ngsi-ld/climate/name",
             "date": "http://uri.citydatahub.kr/ngsi-ld/climate/date",
