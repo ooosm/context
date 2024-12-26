@@ -3,7 +3,6 @@
         {
             "WaterLevelMeter": "http://uri.citydatahub.kr/ngsi-ld/climate/WaterLevelMeter",
             "WaterFlowMeter": "http://uri.citydatahub.kr/ngsi-ld/climate/WaterFlowMeter",
-            "name": "http://uri.citydatahub.kr/ngsi-ld/climate/name",
             "waterLevel": "http://uri.citydatahub.kr/ngsi-ld/climate/waterLevel",
             "flux": "http://uri.citydatahub.kr/ngsi-ld/climate/flux"
         }
