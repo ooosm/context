@@ -3,7 +3,6 @@
         {
             "UrbanFloodSimulationInput": "http://uri.citydatahub.kr/ngsi-ld/climate/UrbanFloodSimulationInput",
             "UndergroundFloodSimulationInput": "http://uri.citydatahub.kr/ngsi-ld/climate/UndergroundFloodSimulationInput",
-            "name": "http://uri.citydatahub.kr/ngsi-ld/climate/name",
             "riverStage": "http://uri.citydatahub.kr/ngsi-ld/climate/riverStage",
             "precipitation": "http://uri.citydatahub.kr/ngsi-ld/climate/precipitation",
             "precipiationPredicted": "http://uri.citydatahub.kr/ngsi-ld/climate/precipiationPredicted",
