@@ -1,0 +1,12 @@
+{
+    "@context": [
+        {
+            "EcotronSmall": "http://uri.citydatahub.kr/ngsi-ld/climate/EcotronSmall",
+            "EcotronLarge": "http://uri.citydatahub.kr/ngsi-ld/climate/EcotronLarge",
+            "elapsedTime": "http://uri.citydatahub.kr/ngsi-ld/climate/elapsedTime",
+            "inputData": "http://uri.citydatahub.kr/ngsi-ld/climate/inputData",
+            "outputData": "http://uri.citydatahub.kr/ngsi-ld/climate/outputData",
+            "actuatorsOn": "http://uri.citydatahub.kr/ngsi-ld/climate/actuatorsOn"
+        }
+    ]
+}
