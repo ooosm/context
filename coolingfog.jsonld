@@ -1,0 +1,8 @@
+{
+    "@context": [
+        {
+            "CoolingFog": "http://uri.citydatahub.kr/ngsi-ld/climate/CoolingFog",
+            "measurements": "http://uri.citydatahub.kr/ngsi-ld/climate/measurements"
+        }
+    ]
+}
