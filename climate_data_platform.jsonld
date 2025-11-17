@@ -46,7 +46,7 @@
             "waterLevel": "http://uri.citydatahub.kr/ngsi-ld/climate/waterLevel",
 
             "year": "http://uri.citydatahub.kr/ngsi-ld/climate/year",
-            "hourlyRainfallM": "http://uri.citydatahub.kr/ngsi-ld/climate/hourlyRainfallM",
+            "hourlyRainfallMax": "http://uri.citydatahub.kr/ngsi-ld/climate/hourlyRainfallMax",
             "5daysRainfallMax": "http://uri.citydatahub.kr/ngsi-ld/climate/5daysRainfallMax",
             "dailyRainfallMax": "http://uri.citydatahub.kr/ngsi-ld/climate/dailyRainfallMax",
             "hourlyRainfall": "http://uri.citydatahub.kr/ngsi-ld/climate/hourlyRainfall",
