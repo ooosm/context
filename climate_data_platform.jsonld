@@ -1,6 +1,7 @@
 {
     "@context": [
         {
+            "WeatherObserved": "http://url.citydatahub.kr/ngsi-ld/climate/WeatherObserved",
             "WaterQualityObserved": "http://uri.citydatahub.kr/ngsi-ld/climate/WaterQualityObserved",
             "Manhole": "http://url.citydatahub.kr/ngsi-ld/climate/Manhole",
             "WaterLevelObserved": "http://uri.citydatahub.kr/ngsi-ld/climate/WaterLevelObserved",
@@ -8,6 +9,22 @@
             "HydrologicalDisasterImpactAssessmentResult": "http://uri.citydatahub.kr/ngsi-ld/climate/HydrologicalDisasterImpactAssessmentResult",
             "ExtremeTemperatureDisasterImpactAssessmentInput": "http://uri.citydatahub.kr/ngsi-ld/climate/ExtremeTemperatureDisasterImpactAssessmentInput",
             "ExtremeTemperatureImpactAssessmentResult": "http://uri.citydatahub.kr/ngsi-ld/climate/ExtremeTemperatureImpactAssessmentResult",
+
+            "weatherType": "http://uri.citydatahub.kr/ngsi-ld/climate/weatherType",
+            "windDirection": "http://uri.citydatahub.kr/ngsi-ld/climate/windDirection",
+            "windSpeed": "http://uri.citydatahub.kr/ngsi-ld/climate/windSpeed",
+            "temperature": "http://uri.citydatahub.kr/ngsi-ld/climate/temperature",
+            "humidity": "http://uri.citydatahub.kr/ngsi-ld/climate/humidity",
+            "atmosphericPressure": "http://uri.citydatahub.kr/ngsi-ld/climate/atmosphericPressure",
+            "seaLevelPressure": "http://uri.citydatahub.kr/ngsi-ld/climate/seaLevelPressure",
+            "rainfall": "http://uri.citydatahub.kr/ngsi-ld/climate/rainfall",
+            "hourlyRainfall": "http://uri.citydatahub.kr/ngsi-ld/climate/hourlyRainfall",
+            "vaporPressure": "http://uri.citydatahub.kr/ngsi-ld/climate/vaporPressure",
+            "dewPoint": "http://uri.citydatahub.kr/ngsi-ld/climate/dewPoint",
+            "sunshine": "http://uri.citydatahub.kr/ngsi-ld/climate/sunshine",
+            "insolation": "http://uri.citydatahub.kr/ngsi-ld/climate/insolation",
+            "snowfall": "http://uri.citydatahub.kr/ngsi-ld/climate/snowfall",
+            "visibility": "http://uri.citydatahub.kr/ngsi-ld/climate/visibility",
 
             "isDoorOpen": "http://uri.citydatahub.kr/ngsi-ld/climate/isDoorOpen",
             "h2s": "http://uri.citydatahub.kr/ngsi-ld/climate/h2s",
