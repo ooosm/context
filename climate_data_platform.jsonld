@@ -2,7 +2,7 @@
     "@context": [
         {
             "WaterQualityObserved": "http://uri.citydatahub.kr/ngsi-ld/climate/WaterQualityObserved",
-            "Manhole": "http://uri.citydatahub.kr/ngsi-ld/climate/Manhole",
+            "Manhole": "http://url.citydatahub.kr/ngsi-ld/climate/Manhole",
             "WaterLevelObserved": "http://uri.citydatahub.kr/ngsi-ld/climate/WaterLevelObserved",
             "HydrologicalDisasterImpactAssessmentInput": "http://uri.citydatahub.kr/ngsi-ld/climate/HydrologicalDisasterImpactAssessmentInput",
             "HydrologicalDisasterImpactAssessmentResult": "http://uri.citydatahub.kr/ngsi-ld/climate/HydrologicalDisasterImpactAssessmentResult",
