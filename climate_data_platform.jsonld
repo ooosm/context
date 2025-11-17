@@ -9,6 +9,11 @@
             "ExtremeTemperatureDisasterImpactAssessmentInput": "http://uri.citydatahub.kr/ngsi-ld/climate/ExtremeTemperatureDisasterImpactAssessmentInput",
             "ExtremeTemperatureImpactAssessmentResult": "http://uri.citydatahub.kr/ngsi-ld/climate/ExtremeTemperatureImpactAssessmentResult",
 
+            "isDoorOpen": "http://uri.citydatahub.kr/ngsi-ld/climate/isDoorOpen",
+            "h2s": "http://uri.citydatahub.kr/ngsi-ld/climate/h2s",
+            "nh3": "http://uri.citydatahub.kr/ngsi-ld/climate/nh3",
+            "floodRiskLevel": "http://uri.citydatahub.kr/ngsi-ld/climate/floodRiskLevel",
+            
             "address": "http://uri.citydatahub.kr/ngsi-ld/climate/address",
             "source": "http://uri.citydatahub.kr/ngsi-ld/climate/source",
             "refDevice": "http://uri.citydatahub.kr/ngsi-ld/climate/refDevice",
