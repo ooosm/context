@@ -9,6 +9,7 @@
             "HydrologicalDisasterImpactAssessmentResult": "http://uri.citydatahub.kr/ngsi-ld/climate/HydrologicalDisasterImpactAssessmentResult",
             "ExtremeTemperatureDisasterImpactAssessmentInput": "http://uri.citydatahub.kr/ngsi-ld/climate/ExtremeTemperatureDisasterImpactAssessmentInput",
             "ExtremeTemperatureImpactAssessmentResult": "http://uri.citydatahub.kr/ngsi-ld/climate/ExtremeTemperatureImpactAssessmentResult",
+            "SoilMoisture": "http://uri.citydatahub.kr/ngsi-ld/climate/SoilMoisture",
 
             "weatherType": "http://uri.citydatahub.kr/ngsi-ld/climate/weatherType",
             "windDirection": "http://uri.citydatahub.kr/ngsi-ld/climate/windDirection",
@@ -77,7 +78,11 @@
             "coldExposureLevel": "http://uri.citydatahub.kr/ngsi-ld/climate/coldExposureLevel",
             "coldSensitivityLevel": "http://uri.citydatahub.kr/ngsi-ld/climate/coldSensitivityLevel",
             "coldAdativeCapacityLevel": "http://uri.citydatahub.kr/ngsi-ld/climate/coldAdativeCapacityLevel",
-            "coldVulnerabilityLevel": "http://uri.citydatahub.kr/ngsi-ld/climate/coldVulnerabilityLevel"
+            "coldVulnerabilityLevel": "http://uri.citydatahub.kr/ngsi-ld/climate/coldVulnerabilityLevel",
+
+            "soilHumidity": "http://uri.citydatahub.kr/ngsi-ld/climate/soilHumidity",
+            "soilTemperature": "http://uri.citydatahub.kr/ngsi-ld/climate/soilTemperature",
+            "depthInterval": "http://uri.citydatahub.kr/ngsi-ld/climate/depthInterval"
         }
     ]
 }
