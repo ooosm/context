@@ -1,0 +1,20 @@
+{
+    "@context": [
+        {
+            "AstarTestObservation": "http://uri.citydatahub.kr/ngsi-ld/climate/AstarTestObservation",
+            "CoolingPrediction": "http://uri.citydatahub.kr/ngsi-ld/climate/CoolingPrediction",
+
+            "temperature": "http://uri.citydatahub.kr/ngsi-ld/climate/temperature",
+            "humidity": "http://uri.citydatahub.kr/ngsi-ld/climate/humidity",
+            "windDirection": "http://uri.citydatahub.kr/ngsi-ld/climate/windDirection",
+            "windSpeed": "http://uri.citydatahub.kr/ngsi-ld/climate/windSpeed",
+
+            "meanCoolingEffect": "http://uri.citydatahub.kr/ngsi-ld/climate/meanCoolingEffect",
+            "maxCoolingEffect": "http://uri.citydatahub.kr/ngsi-ld/climate/maxCoolingEffect",
+            "groundCoolingEffect": "http://uri.citydatahub.kr/ngsi-ld/climate/groundCoolingEffect",
+            "predictedAt": "http://uri.citydatahub.kr/ngsi-ld/climate/predictedAt",
+            "sourceObservation": "http://uri.citydatahub.kr/ngsi-ld/climate/sourceObservation",
+            "modelVersion": "http://uri.citydatahub.kr/ngsi-ld/climate/modelVersion"
+        }
+    ]
+}
