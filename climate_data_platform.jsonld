@@ -10,6 +10,8 @@
             "ExtremeTemperatureDisasterImpactAssessmentInput": "http://uri.citydatahub.kr/ngsi-ld/climate/ExtremeTemperatureDisasterImpactAssessmentInput",
             "ExtremeTemperatureImpactAssessmentResult": "http://uri.citydatahub.kr/ngsi-ld/climate/ExtremeTemperatureImpactAssessmentResult",
             "SoilMoisture": "http://uri.citydatahub.kr/ngsi-ld/climate/SoilMoisture",
+            "AirQualityObserved": "http://uri.citydatahub.kr/ngsi-ld/climate/AirQualityObserved",
+            "OrdorObserved": "http://uri.citydatahub.kr/ngsi-ld/climate/OrdorObserved",
 
             "weatherType": "http://uri.citydatahub.kr/ngsi-ld/climate/weatherType",
             "windDirection": "http://uri.citydatahub.kr/ngsi-ld/climate/windDirection",
@@ -82,7 +84,24 @@
 
             "soilHumidity": "http://uri.citydatahub.kr/ngsi-ld/climate/soilHumidity",
             "soilTemperature": "http://uri.citydatahub.kr/ngsi-ld/climate/soilTemperature",
-            "depthInterval": "http://uri.citydatahub.kr/ngsi-ld/climate/depthInterval"
+            "depthInterval": "http://uri.citydatahub.kr/ngsi-ld/climate/depthInterval",
+
+            "so2": "http://uri.citydatahub.kr/ngsi-ld/climate/so2",
+            "so2Grade": "http://uri.citydatahub.kr/ngsi-ld/climate/so2Grade",
+            "co": "http://uri.citydatahub.kr/ngsi-ld/climate/co",
+            "coGrade": "http://uri.citydatahub.kr/ngsi-ld/climate/coGrade",
+            "o3": "http://uri.citydatahub.kr/ngsi-ld/climate/o3",
+            "o3Grade": "http://uri.citydatahub.kr/ngsi-ld/climate/o3Grade",
+            "no2": "http://uri.citydatahub.kr/ngsi-ld/climate/no2",
+            "no2Grade": "http://uri.citydatahub.kr/ngsi-ld/climate/no2Grade",
+            "pm10": "http://uri.citydatahub.kr/ngsi-ld/climate/pm10",
+            "pm10Grade": "http://uri.citydatahub.kr/ngsi-ld/climate/pm10Grade",
+            "pm25": "http://uri.citydatahub.kr/ngsi-ld/climate/pm25",
+            "pm25Grade": "http://uri.citydatahub.kr/ngsi-ld/climate/pm25Grade",
+            "airQualityIndex": "http://uri.citydatahub.kr/ngsi-ld/climate/airQualityIndex",
+            "airQualityGrade": "http://uri.citydatahub.kr/ngsi-ld/climate/airQualityGrade",
+
+            "voc": "http://uri.citydatahub.kr/ngsi-ld/climate/voc"
         }
     ]
 }
