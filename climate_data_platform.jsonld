@@ -1,9 +1,9 @@
 {
     "@context": [
         {
-            "WeatherObserved": "http://url.citydatahub.kr/ngsi-ld/climate/WeatherObserved",
+            "WeatherObserved": "http://uri.citydatahub.kr/ngsi-ld/climate/WeatherObserved",
             "WaterQualityObserved": "http://uri.citydatahub.kr/ngsi-ld/climate/WaterQualityObserved",
-            "Manhole": "http://url.citydatahub.kr/ngsi-ld/climate/Manhole",
+            "Manhole": "http://uri.citydatahub.kr/ngsi-ld/climate/Manhole",
             "WaterLevelObserved": "http://uri.citydatahub.kr/ngsi-ld/climate/WaterLevelObserved",
             "HydrologicalDisasterImpactAssessmentInput": "http://uri.citydatahub.kr/ngsi-ld/climate/HydrologicalDisasterImpactAssessmentInput",
             "HydrologicalDisasterImpactAssessmentResult": "http://uri.citydatahub.kr/ngsi-ld/climate/HydrologicalDisasterImpactAssessmentResult",
@@ -12,6 +12,13 @@
             "SoilMoisture": "http://uri.citydatahub.kr/ngsi-ld/climate/SoilMoisture",
             "AirQualityObserved": "http://uri.citydatahub.kr/ngsi-ld/climate/AirQualityObserved",
             "OrdorObserved": "http://uri.citydatahub.kr/ngsi-ld/climate/OrdorObserved",
+
+            "addressCountry": "http://uri.citydatahub.kr/ngsi-ld/common/addressCountry",
+            "addressRegion": "http://uri.citydatahub.kr/ngsi-ld/common/addressRegion",
+            "addressLocality": "http://uri.citydatahub.kr/ngsi-ld/common/addressLocality",
+            "addressTown": "http://uri.citydatahub.kr/ngsi-ld/common/addressTown",
+            "streetAddress": "http://uri.citydatahub.kr/ngsi-ld/common/streetAddress",
+            "lotNumberAddress": "http://uri.citydatahub.kr/ngsi-ld/common/lotNumberAddress",
 
             "weatherType": "http://uri.citydatahub.kr/ngsi-ld/climate/weatherType",
             "windDirection": "http://uri.citydatahub.kr/ngsi-ld/climate/windDirection",
